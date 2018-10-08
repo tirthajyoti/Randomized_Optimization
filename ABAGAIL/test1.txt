@@ -1,0 +1,15 @@
+RHC: 44.0
+RHC: Board Position: 
+Time : 6
+============================
+SA: 44.0
+SA: Board Position: 
+Time : 0
+============================
+GA: 44.0
+GA: Board Position: 
+Time : 50
+============================
+MIMIC: 42.0
+MIMIC: Board Position: 
+Time : 84
