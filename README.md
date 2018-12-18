@@ -1,2 +1,4 @@
-# Randomized_Optimization
-Randomized optimization techniques for NN and other problems
+# Randomized Optimization Techniques
+* **Random hill climbing**
+* **Simulated annealing**
+* **Genetic and evolutionary algorithms**
